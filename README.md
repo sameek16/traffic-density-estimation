@@ -49,5 +49,5 @@ python yolov8_vehicle_count.py
 - Surveillance systems
 
 ## Author
-Sameek  
-MSc Data Science
+Sameek Bhoir
+
